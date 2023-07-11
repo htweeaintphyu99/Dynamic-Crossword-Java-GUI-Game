@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ClueAnswer
+comment1.params=number\ eng\ cs\ gk
+comment1.target=ClueAnswer(int,\ boolean,\ boolean,\ boolean)
+comment2.params=number\ eng\ cs\ gk
+comment2.target=void\ jdbc(int,\ boolean,\ boolean,\ boolean)
+comment3.params=
+comment3.target=java.util.ArrayList\ getAnsArrayList()
+comment4.params=
+comment4.target=java.util.ArrayList\ getClueArrayList()
+numComments=5
